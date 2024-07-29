@@ -1,0 +1,2 @@
+# AppPenjualan
+ Menu Penjualan Sederhana
